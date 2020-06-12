@@ -7,20 +7,20 @@ I have implemented Image compression using K-Means algorithm, Python, Numpy and 
 
 Requirements to run the code:
 
-Python 3.6.
-Tkinter.
-NumPy.
-Pillow.
+- Python 3.6.
+- Tkinter.
+- NumPy.
+- Pillow.
 
 How to use the code:
 
-Import Numpy, Pillow, Tkinter packages.
-Open the both im_comp.py and dem.py in any editor.
-Run dem.py.
-Follow the instructions as writter on the window displayed.
-Enter the absolute path of the image you want to compress.(only png files)
-Enter K value .
-Enter the NO_OF_ITERATIONS.
-Click compress button.
-Original image is displayed and after a few mintues, compressed image is also displayed.
-Check the window for all the details.
+- Import Numpy, Pillow, Tkinter packages.
+- Open the both im_comp.py and dem.py in any editor.
+- Run dem.py
+- Follow the instructions as writter on the window displayed.
+- Enter the absolute path of the image you want to compress.(only png files)
+- Enter K value .
+- Enter the NO_OF_ITERATIONS.
+- Click compress button.
+- Original image is displayed and after a few mintues, compressed image is also displayed.
+- Check the window for all the details.
